@@ -1,0 +1,5 @@
+C:\Users\MI FAMILIA\Documents\SharpDevelop Projects\taller\ejercicio3\bin\Debug\ejercicio3.exe
+C:\Users\MI FAMILIA\Documents\SharpDevelop Projects\taller\ejercicio3\bin\Debug\ejercicio3.pdb
+C:\Users\MI FAMILIA\Documents\SharpDevelop Projects\taller\ejercicio3\obj\Debug\ejercicio3.csprojResolveAssemblyReference.cache
+C:\Users\MI FAMILIA\Documents\SharpDevelop Projects\taller\ejercicio3\obj\Debug\ejercicio3.exe
+C:\Users\MI FAMILIA\Documents\SharpDevelop Projects\taller\ejercicio3\obj\Debug\ejercicio3.pdb
